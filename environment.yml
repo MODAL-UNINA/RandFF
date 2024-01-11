@@ -1,0 +1,15 @@
+channels:
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - fastcore=1.5.28
+  - ipython=8.8.0
+  - matplotlib=3.6.3
+  - notebook=6.5.2
+  - numpy=1.24.1
+  - python=3.10.8
+  - pyyaml=6.0
+  - scipy=1.10.0
+  - tensorflow=2.11.0
+  - yaml=0.2.5
