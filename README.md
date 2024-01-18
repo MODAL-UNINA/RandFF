@@ -24,3 +24,13 @@
 ### Requirements
 
 check the environment.yml file
+
+
+### Acknowledgments
+
+This work was partially supported by the following projects:
+
+- PNRR project FAIR - Future AI Research (PE00000013), Spoke 3, under the NRRP MUR program funded by the NextGenerationEU.
+- PNRR Centro Nazionale HPC, Big Data e Quantum Computing, (CN 00000013)(CUP: E63C22000980007), under the NRRP MUR program funded by the NextGenerationEU.
+
+
